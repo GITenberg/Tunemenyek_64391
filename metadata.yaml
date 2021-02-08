@@ -1,0 +1,26 @@
+_repo: Tunemenyek_64391
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eötvös, Károly
+    alias: Eotvos, Karoly
+    birthdate: 1842
+    deathdate: 1916
+    gutenberg_agent_id: '52119'
+    url: http://www.gutenberg.org/2009/agents/52119
+    wikipedia: https://hu.wikipedia.org/wiki/E%C3%B6tv%C3%B6s_K%C3%A1roly
+description: ''
+gutenberg_issued: '2021-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64391'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian literature'
+- !lcc 'PH'
+- GITenberg
+title: Tünemények
+url: http://www.gutenberg.org/ebooks/64391
